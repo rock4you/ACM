@@ -2,7 +2,6 @@
 #include<math.h>
 #include<stdlib.h>
 
-
 int ifprime(long long n)//判断是否为素数
 {
     long long i;
