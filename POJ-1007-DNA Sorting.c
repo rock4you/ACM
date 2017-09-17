@@ -33,8 +33,6 @@ int main() {
     }
     //printf("\n\n");
 
-
-
     for(i=0;i<m;i++)
     {
         mini=4951;
